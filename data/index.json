@@ -1,0 +1,179 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "name": "Software Development",
+      "place": "Life Choices Academy",
+      "icons": [
+        "bi bi-filetype-html",
+        "bi bi-filetype-css",
+        "bi bi-bootstrap",
+        "bi bi-filetype-js"
+      ],
+      "para": "I am currently studying software development in Life choices academy. I have completed HTML(intermediate), CSS(intermediate), BOOTSTRAP(intermediate), JAVASCRIPT(intermediate) , currently busy with VueJs and to complete NodeJs and MySQL."
+    },
+    {
+      "id": 2,
+      "name": "Other Hard-skills",
+      "icons": "bi bi-mortarboard-fill",
+      "place": "Stellenbosch university",
+      "para": "In 2020 I enrolled in Stellenbosch university and did Bacheclor of Commerce in Accounting first year. I passed all my first year modules."
+    },
+    {
+      "id": 3,
+      "name": "Public speaking",
+      "icons": "bi bi-megaphone",
+      "place": "Department of Water and Sanitation(DWS)",
+      "para": "In 2017 I participated in a public speaking competiton addressing the issue of water and sanitation being severely limited sue to socio-economic status.I won the provincials and  represented the Western Cape Province in National Public speaking."
+    },
+    {
+      "id": 4,
+      "name": "Reviewer",
+      "icons": "bi bi-person-fill-check",
+      "place": "Metanoia Residence, Stellenbosch university",
+      "para": "In 2021 I became part of the Metanoia residence constitutuion review committee. My roles were ensuring the constitution was simple, inclusive and adheres to the houses core values"
+    }
+  ],
+
+  "Education": [
+    {
+      "id": 1,
+      "year": 2023,
+      "institute": "Life Choices Academy",
+      "descr": "Currently enrolled for a full stack developer, six months coding course at Life Choices."
+    },
+    {
+      "id": 2,
+      "year": 2022,
+      "institute": "University of Johannesburg ",
+      "descr": "Completed second year of studies towards BCom Accounting degree."
+    },
+    {
+      "id": 3,
+      "year": 2020,
+      "institute": "Stellenbosch University",
+      "descr": "Completed first year of studies towards Bachelor of Commerse in Accounting"
+    },
+    {
+      "id": 4,
+      "year": 2018,
+      "institute": "Manzomthombo Senior Secondary",
+      "descr": "Obtained National Senior Cirtificate"
+    }
+  ],
+  "work": [
+    {
+      "id": 1,
+      "year": 2022,
+      "institute": "Marketing and Business Corporate",
+      "descr": "Marketing Director"
+    },
+    {
+      "id": 2,
+      "year": 2021,
+      "institute": "Stellenbosch University",
+      "descr": "Constitution Review Committe."
+    },
+    {
+      "id": 3,
+      "year": 2019,
+      "institute": "Lingomso Caters",
+      "descr": "Waitress"
+    },
+    {
+      "id": 4,
+      "year": 2019,
+      "institute": "Masigcine Childrens Home",
+      "descr": "Volunteered at Masigcine Childrens Home, Assisted domestically"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "image": "https://i.postimg.cc/DyQKSGzJ/top-of-background.jpg",
+      "name": "GirlHeaven Beauty Bar",
+      "github": "https://github.com/siyamanga22/EOMP_js.git",
+      "netlify": "https://girlheaven.netlify.app/"
+    },
+     {
+      "id": 2,
+      "image": "https://i.postimg.cc/T1MS6ZPs/Black-Elegant-Modern-Name-Initials-Monogram-Logo-removebg-preview.png",
+      "name": "Jewellery store First Full-stack Project",
+      "github": "https://github.com/2420892/DJ_EOMP.git",
+      "netlify": "https://dj-eomp.web.app/"
+    },
+    {
+      "id": 3,
+      "image": "https://i.postimg.cc/25GvWVQv/Portfolios.webp",
+      "name": "First Portfolio",
+      "github": "https://github.com/siyamanga22/ProjectPort.git",
+      "netlify": "https://whimsical-dolphin-721a7d.netlify.app/"
+    },
+    {
+      "id": 4,
+      "image": "https://i.postimg.cc/d3kBbZyw/0x0.webp",
+      "name": "To-Do list",
+      "github": "https://github.com/siyamanga22/LISTMaker.git",
+      "netlify": "https://superlative-faloodeh-cda7d0.netlify.app/"
+    },
+    {
+      "id": 5,
+      "image": "https://i.postimg.cc/fywH0rGg/2023-06-03-png-bmi.png",
+      "name": "BMI calculator",
+      "github": "https://github.com/siyamanga22/BMICalculator.git",
+      "netlify": "https://siyamangabmi.netlify.app/"
+    },
+    {
+      "id": 6,
+      "image": "https://i.postimg.cc/g2xLjm4c/8187ba7e-0d83-47e9-8e93-43da6b12b7ed-b96b13a832ea7e7af4c7a50fa1026fca.jpg",
+      "name": "Standard Calculator",
+      "github": "https://github.com/siyamanga22/calculatorDone.git",
+      "netlify": "https://siyacalculator.netlify.app/"
+    }
+   
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Joel Mukanya",
+      "description": "Lecturer",
+      "photo": "https://i.postimg.cc/W32wWLhs/joel.jpg",
+      "paragraph": "Siyamanga is very creative, well-behaved, and dedicated; she enjoys working with her peers and works well on her project.She has learned HTML, CSS, Bootstrap, and VueJS.She will learn more in the coming months."
+    },
+    {
+      "id": 2,
+      "name": "Nuraan Samsodien",
+      "description": "Colleague",
+      "photo": "https://i.postimg.cc/PqvNMy8m/C12_C2_Nuraan_Samsodien__(1).jpg",
+      "paragraph": "Siyamanga is a highly thought intellectual from my perspective.She is brilliant, passionate, ambitious,and extremely hardworking. She always makes sure that she understands the work and if not she communicates  to ask for guidance. She has great communication and leadership skills."
+    },
+    {
+      "id": 3,
+      "name": "Uzukhanye Dywili",
+      "description": "Assistant Lecture",
+      "photo": "https://i.postimg.cc/vTrVtzkP/C11_Uzukhanye_Dywili_(4).jpg",
+      "paragraph": " Working with Siyamanga was an incredible experience. Her professionalism and attention to detail and made  the entire process seamless.She consistently exceeded my expectations and delivered exceptional results.I  highly recommend her."
+    },
+    {
+      "id": 4,
+      "name": "Kgodisho",
+      "description": "Colleague",
+      "photo": "https://i.postimg.cc/g2n0Yssf/kgodishoface.jpg",
+      "paragraph": "Siyamanga is an exceptional learner with a keen eye for detail,he is an excellent team player who always  go above and beyond to support her fellow students.Her determination, and willingness to collaborate makes her a valuable asset to any team."
+    },
+    {
+      "id": 5,
+      "name": "Laiquah Cotie",
+      "description": "Colleague",
+      "photo": "https://i.postimg.cc/2j7yTV3X/C12_Laiquah_Cotie_(2).jpg",
+      "paragraph": " Working with Siyamanga was amazing. Her professionalism, attention to detail, and  communication skills made the entire process seamless."
+    },
+    {
+      "id": 6,
+      "name": "Aphelele Joyi",
+      "description": "Collegue",
+      "photo": "https://i.postimg.cc/2j7yTV3X/C12_Laiquah_Cotie_(2).jpg",
+      "paragraph": " Siyamanga is dedicated, hard working and a team player. She works well with her peers and performs well on  her projects.She has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have her."
+    }
+  ]
+}
