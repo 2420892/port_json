@@ -8,9 +8,11 @@
         "bi bi-filetype-html",
         "bi bi-filetype-css",
         "bi bi-bootstrap",
-        "bi bi-filetype-js"
+        "bi bi-filetype-js",
+        "bi bi-filetype-sql"
       ],
-      "para": "I am currently studying software development in Life choices academy. I have completed HTML(intermediate), CSS(intermediate), BOOTSTRAP(intermediate), JAVASCRIPT(intermediate) , currently busy with VueJs and to complete NodeJs and MySQL."
+"para": "I studied software development at Life Choices Academy, where I completed courses in:\n\n- HTML\n- CSS\n- Bootstrap\n- JavaScript\n- Vue.js\n- MySQL\n- Node.js"
+
     },
     {
       "id": 2,
