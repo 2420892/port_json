@@ -9,7 +9,7 @@
         "bi bi-filetype-css",
         "bi bi-bootstrap",
         "bi bi-filetype-js",
-        "bi bi-filetype-sql"
+        "bi bi-filetype-sql",
       ],
 "para": "I studied software development at Life Choices Academy, where I completed courses in:\n\n- HTML\n- CSS\n- Bootstrap\n- JavaScript\n- Vue.js\n- MySQL\n- Node.js"
 
@@ -66,9 +66,9 @@
   "work": [
     {
       "id": 1,
-      "year": 2022,
-      "institute": "Marketing and Business Corporate",
-      "descr": "Marketing Director"
+      "year": "Currently",
+      "institute": "LC Studio",
+      "descr": "Web dev and Quality Assurance intern"
     },
     {
       "id": 2,
@@ -92,44 +92,44 @@
   "projects": [
     {
       "id": 1,
-      "image": "https://i.postimg.cc/DyQKSGzJ/top-of-background.jpg",
+      "image": "https://i.ibb.co/4JtS52w/1.png",
       "name": "GirlHeaven Beauty Bar",
       "github": "https://github.com/siyamanga22/EOMP_js.git",
       "netlify": "https://girlheaven.netlify.app/"
     },
      {
       "id": 2,
-      "image": "https://i.postimg.cc/T1MS6ZPs/Black-Elegant-Modern-Name-Initials-Monogram-Logo-removebg-preview.png",
-      "name": "Jewellery store First Full-stack Project",
-      "github": "https://github.com/2420892/DJ_EOMP.git",
-      "netlify": "https://dj-eomp.web.app/"
+      "image": "https://i.ibb.co/xqykvt7/Screenshot-2024-01-25-103711.png",
+      "name": "TechMentorShe  Full-stack Project",
+      "github": "https://github.com/Siyamanga-zw/TechMentorShe",
+      "netlify": "https://techmentorshe.web.app/"
     },
     {
       "id": 3,
       "image": "https://i.postimg.cc/25GvWVQv/Portfolios.webp",
-      "name": "First Portfolio",
-      "github": "https://github.com/siyamanga22/ProjectPort.git",
+      "name": " Wordpress",
+      "github": "",
       "netlify": "https://whimsical-dolphin-721a7d.netlify.app/"
     },
     {
       "id": 4,
-      "image": "https://i.postimg.cc/d3kBbZyw/0x0.webp",
+      "image": "https://i.ibb.co/NW2LHQw/Screenshot-2024-01-10-090819.png",
       "name": "To-Do list",
-      "github": "https://github.com/siyamanga22/LISTMaker.git",
+      "github": "https://github.com/Siyamanga-zw/LISTMaker",
       "netlify": "https://superlative-faloodeh-cda7d0.netlify.app/"
     },
     {
       "id": 5,
-      "image": "https://i.postimg.cc/fywH0rGg/2023-06-03-png-bmi.png",
+      "image": "https://i.ibb.co/6nrt7My/Screenshot-2024-01-25-103719.png",
       "name": "BMI calculator",
-      "github": "https://github.com/siyamanga22/BMICalculator.git",
+      "github": "https://github.com/Siyamanga-zw/BMICalculator",
       "netlify": "https://siyamangabmi.netlify.app/"
     },
     {
       "id": 6,
       "image": "https://i.postimg.cc/g2xLjm4c/8187ba7e-0d83-47e9-8e93-43da6b12b7ed-b96b13a832ea7e7af4c7a50fa1026fca.jpg",
       "name": "Standard Calculator",
-      "github": "https://github.com/siyamanga22/calculatorDone.git",
+      "github": "https://github.com/Siyamanga-zw/calculatorDone.git",
       "netlify": "https://siyacalculator.netlify.app/"
     }
    
@@ -139,41 +139,41 @@
       "id": 1,
       "name": "Joel Mukanya",
       "description": "Lecturer",
-      "photo": "https://i.postimg.cc/W32wWLhs/joel.jpg",
+      "photo": "https://i.ibb.co/PtBFMYD/T02-LW4-RMXJQ-U039-YG2-SQCW-9f624e2a4c31-512.jpg",
       "paragraph": "Siyamanga is very creative, well-behaved, and dedicated; she enjoys working with her peers and works well on her project.She has learned HTML, CSS, Bootstrap, and VueJS.She will learn more in the coming months."
     },
     {
       "id": 2,
-      "name": "Nuraan Samsodien",
+      "name": "Laiquah Cotie",
       "description": "Colleague",
-      "photo": "https://i.postimg.cc/PqvNMy8m/C12_C2_Nuraan_Samsodien__(1).jpg",
+      "photo": "https://i.ibb.co/CvDYFHy/C12-Laiquah-Cotie-2.jpg",
       "paragraph": "Siyamanga is a highly thought intellectual from my perspective.She is brilliant, passionate, ambitious,and extremely hardworking. She always makes sure that she understands the work and if not she communicates  to ask for guidance. She has great communication and leadership skills."
     },
     {
       "id": 3,
       "name": "Uzukhanye Dywili",
       "description": "Assistant Lecture",
-      "photo": "https://i.postimg.cc/vTrVtzkP/C11_Uzukhanye_Dywili_(4).jpg",
+      "photo": "https://i.ibb.co/6yfTJFv/C11-Uzukhanye-Dywili-4.jpg",
       "paragraph": " Working with Siyamanga was an incredible experience. Her professionalism and attention to detail and made  the entire process seamless.She consistently exceeded my expectations and delivered exceptional results.I  highly recommend her."
     },
     {
       "id": 4,
-      "name": "Kgodisho",
-      "description": "Colleague",
-      "photo": "https://i.postimg.cc/g2n0Yssf/kgodishoface.jpg",
+      "name": "Codi Kadar",
+      "description": "Colleague - SEO",
+      "photo": "https://i.ibb.co/NrrjHkh/T02-LW4-RMXJQ-U051-M9-HC59-B-7afcbaa82884-512.jpg",
       "paragraph": "Siyamanga is an exceptional learner with a keen eye for detail,he is an excellent team player who always  go above and beyond to support her fellow students.Her determination, and willingness to collaborate makes her a valuable asset to any team."
     },
     {
       "id": 5,
-      "name": "Laiquah Cotie",
-      "description": "Colleague",
-      "photo": "https://i.postimg.cc/2j7yTV3X/C12_Laiquah_Cotie_(2).jpg",
+      "name": "Okuhle Gxotiwe",
+      "description": "Colleague-Web Dev",
+      "photo": "https://i.ibb.co/DRn08Mp/T02-LW4-RMXJQ-U051-LU64-JFP-52d4acbac216-512.jpg",
       "paragraph": " Working with Siyamanga was amazing. Her professionalism, attention to detail, and  communication skills made the entire process seamless."
     },
     {
       "id": 6,
       "name": "Thotyelwa Mpongwana",
-      "description": "Collegue",
+      "description": "Collegue-AWS",
       "photo": "https://i.ibb.co/p2JgJZg/IMG-1425-1.jpg",
       "paragraph": " Siyamanga is dedicated, hard working and a team player. She works well with her peers and performs well on  her projects.She has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have her."
     }
